@@ -3,6 +3,9 @@
 
 Solución: https://github.com/WilsonGLan/carro_de_compras_2290
 
+![4b9cff36b747e1f4509de5f6f1f72d7a](https://user-images.githubusercontent.com/113076117/202595905-ec5bba81-57c0-492d-85ac-d77170075c70.gif)
+
+
 A new Flutter project.
 
 ## Getting Started
