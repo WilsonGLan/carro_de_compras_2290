@@ -1,4 +1,7 @@
-# reto2
+## NRC 2290
+# reto2 
+
+Solución: https://github.com/WilsonGLan/carro_de_compras_2290
 
 A new Flutter project.
 
