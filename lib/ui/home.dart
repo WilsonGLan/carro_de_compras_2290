@@ -16,9 +16,9 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       title: 'Reto 2',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.blueGrey,
       ),
-      home: const MyHomePage(title: 'Shopping Max'),
+      home: const MyHomePage(title: 'Grupo 4 - Reto 2'),
       debugShowCheckedModeBanner: false,
     );
   }

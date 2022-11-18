@@ -14,7 +14,7 @@ class _pag1_inicioState extends State<pag1_inicio> {
       child: const Center(
         child: Image(
             image: NetworkImage(
-                "https://www.creativefabrica.com/wp-content/uploads/2019/02/Online-shop-shopping-shop-logo-by-DEEMKA-STUDIO-1-580x406.jpg")),
+                "https://d3ugyf2ht6aenh.cloudfront.net/stores/912/323/themes/common/logo-1325470504-1665790392-9836f6dec87fe396fed34dfec0b485481665790392.png?0")),
       ),
     );
   }

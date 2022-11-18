@@ -14,25 +14,29 @@ class _pag4_cercadeState extends State<pag4_cercade> {
       child: ListView(
         children: [
           ListTile(
+            title: Text("Integrantes Grupo 4 2290"),
+          ),
+          ListTile(
             leading: Icon(Icons.person),
-            title: Text("Grupo 4"),
-            subtitle: Text("Nombres"),
+            title: Text("Wilson Gutierrez"),
           ),
           ListTile(
-            leading: Icon(Icons.person_pin),
-            title: Text("2290"),
-            subtitle: Text("Apellidos"),
+            leading: Icon(Icons.person),
+            title: Text("Paola Prada"),
           ),
           ListTile(
-            leading: Icon(Icons.phone_android),
-            title: Text("XXXXXXX"),
-            subtitle: Text("Celular"),
+            leading: Icon(Icons.person),
+            title: Text("Gabriel Rodriguez"),
           ),
           ListTile(
-            leading: Icon(Icons.email),
-            title: Text("grupo4-2290@uninorte.edu.co"),
-            subtitle: Text("Email"),
-          )
+            leading: Icon(Icons.person),
+            title: Text("Jhony Alvarez"),
+          ),
+          ListTile(
+              leading: Icon(Icons.style_rounded),
+              title: Text("Universidad del Norte"),
+              subtitle: Text("Institición")),
+          ListTile(leading: Icon(Icons.email), title: Text("Mision TIC 2022"))
         ],
       ),
     );

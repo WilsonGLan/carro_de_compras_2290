@@ -19,7 +19,7 @@ class _menuState extends State<menu> {
         child: Column(
           children: [
             const DrawerHeader(
-              decoration: BoxDecoration(color: Colors.lightBlue),
+              decoration: BoxDecoration(color: Colors.blueGrey),
               child: UserAccountsDrawerHeader(
                   currentAccountPicture: CircleAvatar(
                     backgroundImage: NetworkImage(

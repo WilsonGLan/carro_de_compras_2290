@@ -8,32 +8,32 @@ class controladorGeneral extends GetxController {
   void onInit() {
     pro.add(productos(
         1,
-        "Tennis Polo",
-        "https://static.dafiti.com.co/p/royal-county-of-berkshire-polo-club-6022-2760021-1-zoom.jpg",
+        "Reloj Casio Mtp Vd01gl",
+        "https://exitocol.vtexassets.com/arquivos/ids/13555924-500-auto?v=1752500195&width=500&height=auto&aspect=true",
         0,
-        120000));
+        159900));
     pro.add(productos(
         2,
-        "Tennis Tallenzi",
-        "https://static.dafiti.com.co/p/tellenzi-0891-3161302-1-zoom.jpg",
+        "Reloj Casio Ltp-V300d-4A",
+        "https://exitocol.vtexassets.com/arquivos/ids/11092049-500-auto?v=1752688069&width=500&height=auto&aspect=true",
         0,
-        210000));
+        197700));
     pro.add(productos(
         3,
-        "Tennis Adidas",
-        "https://static.dafiti.com.co/p/adidas-performance-8301-2172251-1-zoom.jpg",
+        "Reloj Casio Ae1500wh 8Bvdf",
+        "https://exitocol.vtexassets.com/arquivos/ids/12300855-500-auto?v=1754661303&width=500&height=auto&aspect=true",
         0,
         185000));
     pro.add(productos(
         4,
-        "Tennis Tommy",
-        "https://static.dafiti.com.co/p/tommy-hilfiger-9770-3902502-1-zoom.jpg",
+        "Reloj Deportivo Cronografo",
+        "https://exitocol.vtexassets.com/arquivos/ids/827259-500-auto?v=1753394485&width=500&height=auto&aspect=true",
         0,
-        360000));
+        149900));
     pro.add(productos(
         5,
-        "Sketcher",
-        "https://static.dafiti.com.co/p/skechers-4338-8646691-1-zoom.jpg",
+        "Reloj Curren Original",
+        "https://exitocol.vtexassets.com/arquivos/ids/12300855-500-auto?v=1754661303&width=500&height=auto&aspect=true",
         0,
         173000));
 
